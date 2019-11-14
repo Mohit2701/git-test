@@ -1,0 +1,23 @@
+#Product_img img{
+	width: 20%;
+	height: 8%;
+	margin-left: 40%;
+	padding-top: 5%;
+}
+.toCart{
+ color: white;
+ background-color: orange;
+ width: 15%;
+}
+.sub_buuton{
+	
+ 	background-color: orange;
+ 	margin-left: 5px;
+ 	margin-right: 5px;
+}
+.add_buuton{
+	 
+ 	background-color: orange;
+ 	margin-left: 5px;
+ 	margin-right: 5px;
+}
